@@ -1,3 +1,3 @@
-## TV SCRIPT GENERATION
+### Tv script generation
 
 In this project, you'll generate your own Seinfeld TV scripts using RNNs. You'll be using part of the Seinfeld dataset of scripts from 9 seasons. 
